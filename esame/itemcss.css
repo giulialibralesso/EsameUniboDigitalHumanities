@@ -1,0 +1,56 @@
+#timeline {
+	padding:05%;
+	height: 100%; /* Full-height: remove this if you want "auto" height */
+	width: 70%; /* Set the width of the sidebar */
+	float: right;
+}
+.badge {
+	background-color: #212529;
+}
+
+header {
+	height: auto;
+	width: 100%;
+	position: fixed;
+	z-index: 1;
+	background-color: #f8f9fa;
+}
+
+aside {
+	height: 100%; /* Full-height: remove this if you want "auto" height */
+	width: 30%; /* Set the width of the sidebar */
+	  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+	  top: 0; /* Stay at the top */
+	  left: 0;
+	  background-color: #212529;
+	  overflow-x: hidden; /* Disable horizontal scroll */
+	  padding: 80px;
+	  padding-top: 140px;
+	  float: left;
+}
+aside a, aside h3 {
+	color: #f8f9fa!important;
+}
+.choose {
+	color: #f8f9fa;
+	/*padding:10%;*/
+}
+
+#square {
+	display: inline;
+	color:#BD7373;
+}
+#square2 {
+	display: inline;
+	color:#7B76B8;
+}
+.card-body a {
+	color: #212529;
+}
+.card-title a {
+	color: #212529;
+}
+
+#line {
+	background-color: #f8f9fa;
+}

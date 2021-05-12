@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Stoner</title>
+				<title type="sub">Estratto di Stoner trascritto in edizione elettronica e machine readable</title>
+				<author xml:id="JEW">
+					<name ref="https://viaf.org/viaf/67710786/" type="person">John Edward Williams (1922-1994)</name>
+					<forename>John Edward</forename>
+					<surname>Williams</surname>
+				</author>
+				<respStmt xml:id="GL">
+					<resp>Codifica TEI</resp>
+					<name>Giulia Libralesso</name>
+				</respStmt>
+				<respStmt xml:id="ST">
+					<resp>Traduttore</resp>
+					<name ref="http://viaf.org/viaf/26353456/" type="name">Stefano Tummolini</name>
+				</respStmt>			
+			</titleStmt>
+
+			<publicationStmt xml:id="FE">
+				<publisher>Fazi Editore</publisher>
+				<address>
+					<addrLine>Roma, RM</addrLine>
+					<addrLine>Via Isonzo, 42</addrLine>
+					<addrLine>url:https://fazieditore.it/</addrLine>
+				</address>
+				<date>2019</date>
+			</publicationStmt>
+
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<author>
+							<persName>
+								<forename>John Edward</forename>
+								<surname>Williams</surname>
+							</persName>
+						</author>
+					<title type="main" level="m">Stoner</title>
+						<edition>Prima edizione <date>Dicembre 2019</date>
+						</edition>
+					<imprint>
+						<pubPlace>Roma</pubPlace>
+						<publisher>Fazi Editore</publisher>
+						<date>Dicembre 2019​</date>
+					</imprint>
+						<extent>332 ​p.​ ​(​1 ​volume)</extent>
+					</monogr>
+				</biblStruct>
+
+		<listBibl type="cited-sources">
+			<bibl xml:id="WS">
+				<author>
+					<name ref="http://viaf.org/viaf/13092507" type="person">William Shakespeare</name>
+				</author>
+				<title type="main" level="m">Sonetti</title>
+			</bibl>
+			<bibl xml:id="PBS">
+				<author><name ref="http://viaf.org/viaf/95159449 https://www.worldcat.org/identities/lccn-n79054060/" type="person">Percy Bysshe Shelley</name></author>
+				<title type="main" level="m">Adonais</title>
+			</bibl>
+			<bibl xml:id="JK">
+				<author><name ref="https://viaf.org/viaf/66508882 https://www.worldcat.org/identities/lccn-n80035884/" type="person">John Keats</name></author>
+				<title type="main" level="m">Ode su un'urna greca</title>
+			</bibl>
+		</listBibl>
+	</sourceDesc>
+</fileDesc>
+</teiHeader>
+
+<text xml:lang="it">
+	<front>
+		<titlePage>
+			<docAuthor>John Williams</docAuthor>
+			<docTitle>
+				<titlePart type="main">Stoner</titlePart>
+			</docTitle>
+			<byline>Postfazione all'edizione italiana di Peter Cameron, traduzione di Stefano Tummolini</byline>
+			<docImprint>Fazi Editore, Roma 2019</docImprint>
+		</titlePage>
+		<div type="dedication">
+			<p>Questo libro è dedicato agli amici ed ex colleghi del dipartimento di Inglese dell'Università del Missouri. Essi noteranno subito che si tratta di un libro di finzione, che nessuno dei personaggi qui ritratti si ispira a persone realmente esistite o esistenti, e che nessuno dei fatti raccontati ha un corrispettivo nella realtà che abbiamo conosciuto all'Università del Missouri. Capiranno anche che mi sono preso alcune libertà, sia fisiche che storiche, rispetto alla stessa Università del Missouri, che è diventata a sua volta un luogo immaginario.</p>
+		</div>
+	</front>
+
+	<body>
+		<div type="chapter" n="5">
+			<head>Capitolo Cinque</head>
+			<p>Tornarono a <name type="place">Columbia</name> due giorni prima del previsto. Agitati e tesi dall'isolamento, si sentivano entrambi in prigione. <name type="person">Edith</name> disse che dovevano assolutamente rientrare, in modo che <name type="person">William</name> avesse il tempo di preparare le sue lezioni e lei potesse sistemare il nuovo appartamento. <name type="person">Stoner</name> fu subito d'accordo, convinto che le cose sarebbero andate meglio una volta che si fossero sistemati a casa loro, tra le persone che conoscevano e in un contesto più familiare. Nel pomeriggio fecero le valigie e quella sera stessa erano già sul treno per <name type="place">Columbia</name>.</p>
+			<p>Nei giorni confusi e frenetici prima del matrimonio, <name type="person">Stoner</name> aveva trovato un appartamento libero al secondo piano di una vecchia palazzina ricavata da un ex granaio, a cinque isolati dall'università. Era buio e spoglio, con una piccola camera da letto, un cucinotto e un enorme soggiorno con delle alte finestre. Era già stato occupato da un artista, che insegnava all'università e non doveva essere molto ordinato. Le grandi assi di legno scuro dei pavimenti erano piene di macchie gialle, blu e rosse, e i muri erano sporchi di vernice e polvere. Ma <name type="person">Stoner</name> l'aveva trovato romantico e confortevole, e gli era sembrato un buon posto per cominciare una nuova vita. <name type="person">Edith</name> si trasferì nell'appartamento come se fosse un nemico</p>
+			<pb xml:id="cap5p1" n="88"/>
+			<p>da conquistare. Pur non essendo abituata al lavoro fisico, grattò via quasi tutta la vernice dai muri e dai pavimenti e si accanì contro la polvere che immaginava nascosta ovunque. Aveva le vesciche alle mani, il viso stravolto dalla fatica e delle grandi borse scure sotto gli occhi. Quando <name type="person">Stoner</name> cercava di aiutarla s'intestardiva, serrava le labbra e scuoteva la testa: gli rispondeva che doveva dedicarsi ai suoi studi e che quello era compito <emph>suo</emph>. E se <name type="person">William</name> insisteva arrivava quasi a deprimersi, come se si sentisse umiliata. Confuso e impotente, <name type="person">Stoner</name> si faceva indietro e restava a guardarla, mentre lei, scura in volto, riprendeva a strofinare in modo maldestro le pareti e i pavimenti già lucidi, a cucire le tende e ad appenderle storte alle finestre, a riparare e a dipingere e ridipingere i vecchi mobili ammucchiati in casa. Per quanto inetta, lavorava con muta, intensa ferocia, tanto che il pomeriggio, quando rientrava dall'università, <name type="person">Stoner</name> la trovava esausta. Si trascinava in cucina per preparare la cena, mandava giù qualche boccone, poi mormorava qualcosa e se ne andava a letto, dove si addormentava come narcotizzata fino al mattino dopo, quando lui usciva per andare a lezione.</p>
+			<p>Nel giro di un mese, <name type="person">Stoner</name> realizzò che il suo matrimonio era un fallimento. Di lì a un anno smise di sperare che le cose sarebbero migliorate. Imparò il silenzio e mise da parte il suo amore. Se le parlava o la sfiorava con tenerezza, <name type="person">Edith</name> si voltava dall'altra parte e si chiudeva in se stessa, restando muta, e nei giorni successivi ricominciava a sfiancarsi con maggiore accanimento. Ciononostante si ostinavano entrambi a condividere lo stesso letto.</p>
+		</div>
+	</body>
+	<back>
+		<div type="notes">
+			<list rend="numbered">
+				<item>William Shakespeare, Sonetti, traduzione di Maria Antonietta Marelli, Milano, Garzanti, 1986.</item>
+				<item>Percy Bysshe Shelley, Adonais, a cura di Roberto Sanesi, Milano, Mondadori, 1983.</item>
+				<item>John Keats, Ode su un'urna greca, traduzione di Elido Fazi, in Bright Star, Roma, Fazi Editore, 2010.</item>
+			</list>
+		</div>
+		<div type="preface">
+			<head>POSTFAZIONE di Peter Cameron</head>
+			<p>La maggior parte degli scrittori, buttato giù il primo paragrafo del romanzo, avrebbero rinunciato. A che scopo continuare?[...]</p>
+		</div>
+	</back>
+</text>
+</TEI>

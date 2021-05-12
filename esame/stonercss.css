@@ -1,0 +1,49 @@
+aside {
+	height: 100%; /* Full-height: remove this if you want "auto" height */
+	width: 30%; /* Set the width of the sidebar */
+	  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+	  top: 0; /* Stay at the top */
+	  left: 0;
+	  background-color: #212529;
+	  overflow-x: hidden; /* Disable horizontal scroll */
+	  padding: 80px;
+	  padding-top: 140px;
+	  float: left;
+}
+aside h3 {
+	color: #f8f9fa!important;
+}
+#cito {
+	padding:10%;
+	height: 100%; /* Full-height: remove this if you want "auto" height */
+	width: 70%; /* Set the width of the sidebar */
+	float: right;
+	text-align: center;
+	text-align:justify;
+}
+#cito p {
+	text-align: center;
+	padding-top: 03%;
+}
+#page-go button {
+	color:#f8f9fa;
+}
+#bottone a {
+	color:#f8f9fa;
+}
+.list-group a {
+	color: black;
+}
+#actv {
+    z-index: 2;
+    color: #fff;
+    background-color: #42505c;
+    border-color: #007bff;
+}
+#audio a {
+	color:#f8f9fa;
+}
+#dwn a {
+	color:#f8f9fa;
+}
+

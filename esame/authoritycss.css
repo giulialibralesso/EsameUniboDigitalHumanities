@@ -1,0 +1,24 @@
+#intro {
+	padding-top: 05%;
+	padding-left: 05%;
+	padding-right: 05%;
+	padding-bottom: 0%;
+	margin:05%;
+}
+
+#intro h1 {
+	text-align: center;
+}
+
+#faccia {
+	float:left;
+	margin:03%;
+	margin-bottom: 01%;
+}
+
+#table {
+	padding: 01%;
+	margin: 05%;
+	text-align: center;
+
+}

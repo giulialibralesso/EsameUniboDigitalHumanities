@@ -1,0 +1,50 @@
+html body {
+	background-color: #212529;
+}
+body h1 {
+	padding-top: 07%;
+	padding-bottom: 03%;
+	text-align: center;
+	color: white;
+}
+.card-group {
+padding-top: 0%;
+}
+.card-body a {
+	color: black;
+}
+#overlay, #guerra, #amicizia, #amore, #lavoro, #natura, #solitudine {
+  position: fixed; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+  cursor: pointer; /* Add a pointer on hover */
+}
+.text{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 02%;
+  padding-bottom: 02%;
+  margin: 02%;
+  font-size: 30px;
+  color: black;
+  background-color: white;
+  transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+}
+.text a {
+	color: black;
+	font-style: italic;
+}
+.progress-bar {
+	background-color: #212529!important;
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/"
+xmlns:ISO639-2="https://www.loc.gov/standards/iso639-2/langhome.html">
+<dc:title>John Edward Williams: le opere</dc:title>
+<dc:creator>Giulia Libralesso</dc:creator>
+<dc:subject>Letteratura americana, Narrativa straniera, Narrativa moderna e contemporanea</dc:subject>
+<dc:subject xsi:type="dcterms:DDC">813/.54 22</dc:subject>
+<dc:subject xsi:type="dcterms:UDC">82-31</dc:subject>
+<dc:subject xsi:type="dcterms:LCC">PS3545.I5286 S7 2003</dc:subject>
+<dc:description>La risorsa vuole contribuire alla divulgazione delle opere dello scrittore americano John Edward Williams.</dc:description>
+<dc:description xml:lang="en">The resource hereby presented aims to spread knowledge about the american author John Edward Williams' writings.</dc:description>
+<dc:publisher>Giulia Libralesso</dc:publisher>
+<dcterms:modified xsi:type="dcterms:W3CDTF">2020-09-03</dcterms:modified>
+<dc:type>text</dc:type>
+<dc:format>text/html</dc:format>
+<dc:format xsi:type="dcterms:IMT">text/html</dc:format>
+	<dcterms:extent>8 Kbytes</dcterms:extent>
+<dc:format xsi:type="dcterms:IMT">text/xml</dc:format>
+<dc:format xsi:type="dcterms:IMT">rdf/json-ld</dc:format><!--non sono sicura-->
+<dc:identifier>file:///C:/Users/Proprietario/Desktop/esame/maindoc.html</dc:identifier>
+<dc:language scheme="ISO639-2">ita</dc:language>
+</metadata>

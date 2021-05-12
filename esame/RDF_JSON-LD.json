@@ -1,0 +1,54 @@
+{
+	"@context":
+	{
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"frbr": "http://purl.org/vocab/frbr/core#",
+		"viaf": "http://viaf.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"name": "foaf:name",
+		"birth": {
+			"@id": "dcterms:dateOfBirth",
+			"@type": "xsd:integer"
+		},
+		"death": {
+			"@id": "dcterms:dateOfDeath",
+			"@type": "xsd:integer"
+		},
+		"made": {
+			"@id": "foaf:made",
+			"@type": "@id"
+		},
+		"person": "foaf:Person",
+		"title": {
+			"@id": "dcterms:title",
+			"@type": "xsd:string"
+		},
+		"year": {
+			"@id": "xsd:gYear",
+			"@type": "@id"
+		},
+		"maker": {
+			"@id": "foaf:maker",
+			"@type": "@id"
+		},
+		"document": "foaf:Document",
+		"work": "frbr:Work",
+		"expression": "frbr:Expression",
+		"manifestation": "frbr:Manifestation",
+		"item": "frbr:Item"
+	},
+	"@id": "https://viaf.org/viaf/67710786/",
+	"@type": "person",
+	"name": "John Edward Williams",
+	"birth": "1922",
+	"death": "1994",
+	"made": "rdf:resource=https://www.wikidata.org/wiki/Q7619282/",
+	"title": "Stoner",
+	"year": "1965",
+	"maker": "viaf:https://viaf.org/viaf/67710786/",
+	"work": "Stoner / Williams, John Edward, 1922-1994",
+	"expression": "viaf:http://viaf.org/viaf/4878158491037811920007/#Williams,_John,_1922-1994._|_Stoner_|_Italian_|_(Tummolini_:_2012), rdf:resource=https://www.wikidata.org/wiki/Q7619282/; https://www.wikidata.org/wiki/Q3740549/",
+	"manifestation": "rdf:translation=ISBN/978-88-932-570-08/, about=ita; rdf:reproduction=ISBN/978-88-6411-6433, about=eBook",
+	"item": "rdf:exemplar=EAN/9780099561545; rdf:exemplar=ISBN/978-88-932-570-08/"
+}
